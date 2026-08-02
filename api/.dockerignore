@@ -11,7 +11,6 @@ storage/*.sqlite
 .git
 .gitignore
 .gitattributes
-Dockerfile
 docker-entrypoint.sh
 .dockerignore
 tests
